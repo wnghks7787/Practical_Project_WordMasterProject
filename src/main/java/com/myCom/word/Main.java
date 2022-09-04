@@ -3,6 +3,6 @@ package com.myCom.word;
 public class Main {
     public static void main(String[] args)
     {
-        System.out.println("Hello world!");
+        new WordManager().start();
     }
 }
