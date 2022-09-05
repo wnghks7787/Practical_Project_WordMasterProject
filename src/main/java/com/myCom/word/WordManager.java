@@ -39,8 +39,8 @@ public class WordManager {
             if(menu == 4)
                 wordCRUD.addWord();
 
-//            if(menu == 1)
-                // list
+            if(menu == 1)
+                wordCRUD.listAll();
         }
     }
 }
