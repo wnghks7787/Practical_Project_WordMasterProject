@@ -5,6 +5,12 @@ import java.util.Scanner;
 public class WordManager {
 
     Scanner s = new Scanner(System.in);
+    WordCRUD wordCRUD;
+
+    WordManager()
+    {
+        wordCRUD = new WordCRUD(s);
+    }
 
     public int selectMenu()
     {
@@ -25,7 +31,16 @@ public class WordManager {
     }
     public void start()
     {
-        int menu = selectMenu();
-        System.out.println(menu);
+        while(true) {
+            int menu = selectMenu();
+            if (menu == 0)
+                break;
+
+            if(menu == 4)
+                wordCRUD.addWord();
+
+//            if(menu == 1)
+                // list
+        }
     }
 }
