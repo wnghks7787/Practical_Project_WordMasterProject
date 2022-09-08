@@ -38,10 +38,16 @@ public class WordManager {
                 break;
             }
 
-            if(menu == 4)
-                wordCRUD.addWord();
-
             if(menu == 1)
+                wordCRUD.listAll();
+
+            if(menu == 4)
+                wordCRUD.addItem();
+
+            if(menu == 5)
+                wordCRUD.updateItem();
+
+            if(menu == 6)
                 wordCRUD.listAll();
         }
     }
