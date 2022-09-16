@@ -10,8 +10,31 @@
 2. 모든 단어 보기(1)
 <img src="https://github.com/wnghks7787/Practical_Project_WordMasterProject/blob/main/screenshot/screenshot3.png?raw=true">
 
-3. 단어 추가하기(4)
+3. 수준별 단어보기(2)
+<img src="https://github.com/wnghks7787/Practical_Project_WordMasterProject/blob/main/screenshot/screenshot4.png?raw=true">
+
+4. 단어 검색(3)
+<img src="https://github.com/wnghks7787/Practical_Project_WordMasterProject/blob/main/screenshot/screenshot5.png?raw=true">
+
+5. 단어 추가하기(4)
 <img src="https://github.com/wnghks7787/Practical_Project_WordMasterProject/blob/main/screenshot/screenshot3.png?raw=true">
+
+6. 단어 수정(5)
+<img src="https://github.com/wnghks7787/Practical_Project_WordMasterProject/blob/main/screenshot/screenshot6.png?raw=true">
+
+7. 단어 삭제(6)
+<img src="https://github.com/wnghks7787/Practical_Project_WordMasterProject/blob/main/screenshot/screenshot7.png?raw=true">
+
+8. 파일 저장(7)
+<img src="https://github.com/wnghks7787/Practical_Project_WordMasterProject/blob/main/screenshot/screenshot8.png?raw=true">
+
+#### 프로그래 실행 시 데이터 가져오기
+<img src="https://github.com/wnghks7787/Practical_Project_WordMasterProject/blob/main/screenshot/screenshot9.png?raw=true">
+
+---
+
+###데이터베이스 화면
+<img src="https://github.com/wnghks7787/Practical_Project_WordMasterProject/blob/main/screenshot/screenshot10.png?raw=true">
 
 ---
 
