@@ -1,3 +1,7 @@
-3|superintendent|관리자, 감독관
+3|superintendent|관리자, 감독관, 지배인
 1|electric|전기의
-1| apple|사과
+1| collaborate|협력하다
+1| pole|기둥, 장대
+1| stock|주식, 재고
+2| seagull|갈매기
+3| subordinate|부하의, 하급자의
